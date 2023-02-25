@@ -3,8 +3,13 @@
 <h1 align="center">Snowball<img src="./src/wave.gif" width="30px"></h1>
 
 
+![WhatsApp Video 2023-02-25 at 1 31 54 PM (1)](https://user-images.githubusercontent.com/95897451/221376340-dd1de5d9-f374-4fde-9f5c-ecb2154fd88f.gif)
 
-### I am a mobile developer on ios💻!!
+
+
+
+
+
 </details>
 
 
