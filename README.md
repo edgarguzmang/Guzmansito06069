@@ -4,14 +4,10 @@
 
 
 
-### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
-- 🦾 I love the PowerLifting!
-- 🤓  I’m currently learning everything
-- 👾  I am very curious and that is why you start studying programming
-- 🗒  I am currently very obsected with learning vimscript
+### I am a mobile developer on ios💻!!
 </details>
 
-<br />
+
 
 
 <h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Lenguaje y herramientas</h3>
@@ -41,8 +37,8 @@
 
 <div>
   <a href="https://github.com/Guzmansito06069">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mctechnology17&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mctechnology17&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guzmansito06069&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guzmansito06069&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
