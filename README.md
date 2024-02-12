@@ -2,6 +2,10 @@
 
 <h1 align="center">Snowball<img src="./src/wave.gif" width="30px"></h1>
 
+.container {
+  display: flex;
+  align-items: center;
+}
 
 
 
