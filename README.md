@@ -1,45 +1,14 @@
 [![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/mctechnology17)
-  <script src="https://cdn.tailwindcss.com"></script>
 
 <h1 align="center">Snowball<img src="./src/wave.gif" width="30px"></h1>
 
-<article class="relative overflow-hidden rounded-lg shadow transition hover:shadow-lg">
-  <img
-    alt=""
-    src="https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
-    class="absolute inset-0 h-full w-full object-cover"
-  />
-
-  <div class="relative bg-gradient-to-t from-gray-900/50 to-gray-900/25 pt-32 sm:pt-48 lg:pt-64">
-    <div class="p-4 sm:p-6">
-      <time datetime="2022-10-10" class="block text-xs text-white/90"> 10th Oct 2022 </time>
-
-      <a href="#">
-        <h3 class="mt-0.5 text-lg text-white">How to position your furniture for positivity</h3>
-      </a>
-
-      <p class="mt-2 line-clamp-3 text-sm/relaxed text-white/95">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus
-        pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis
-        quidem, mollitia itaque minus soluta, voluptates neque explicabo tempora nisi culpa eius
-        atque dignissimos. Molestias explicabo corporis voluptatem?
-      </p>
-    </div>
-  </div>
-</article>
-
-
-
-  <img src="https://user-images.githubusercontent.com/95897451/221376340-dd1de5d9-f374-4fde-9f5c-ecb2154fd88f.gif" alt="WhatsApp Video 2023-02-25 at 1 31 54 PM (1)" class="image" />
 
 
 
 
+  <img align="center" src="https://user-images.githubusercontent.com/95897451/221376340-dd1de5d9-f374-4fde-9f5c-ecb2154fd88f.gif" alt="WhatsApp Video 2023-02-25 at 1 31 54 PM (1)" class="image" />
 
 </details>
-
-
-
 
 <h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Lenguaje y herramientas</h3>
 <p align="center">
